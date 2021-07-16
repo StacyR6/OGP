@@ -1,0 +1,21 @@
+.card > .react-bootstrap-table .table {
+    margin-bottom: 0;
+}
+.react-bootstrap-table table {
+    table-layout: auto;
+  }
+.react-bootstrap-table-pagination-list .pagination {
+    justify-content: flex-end;
+}
+
+.react-bootstrap-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch
+    }
+
+    .table th,
+    .table td {
+    white-space: nowrap
+    }
